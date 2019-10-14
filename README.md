@@ -3,4 +3,5 @@
 ###### This is an H6 header (smallest)
 ## Summary 
 
-This repository contains all of the notes taken by Herm for the Lighthouse Labs Web Development Bootcamp.
+### Adding Links
+This repository contains all of the notes taken by [Herm](https://github.com/HermSidhu) for the Lighthouse Labs Web Development Bootcamp.
